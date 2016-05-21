@@ -21,6 +21,10 @@ $brand-color:      #2a7ae2;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+$dark-color:       #393939;
+$maroon:           #990000;
+$maroon-light:     lighten($maroon, 5%);
+$maroon-dark:      darken($maroon, 25%);
 
 // Width of the content area
 $content-width:    800px;
